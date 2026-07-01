@@ -1,0 +1,13 @@
+# Local terraform execution directories
+.terraform/
+
+# Store local state files safely away from source control
+*.tfstate
+*.tfstate.*
+
+# Crash log files
+crash.log
+
+# Ignore CLI configuration files
+.terraformrc
+terraform.rc
