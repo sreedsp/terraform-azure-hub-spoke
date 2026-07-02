@@ -65,3 +65,4 @@ resource "azurerm_virtual_network_peering" "spoke1_to_hub" {
     allow_forwarded_traffic   = true
     allow_virtual_network_access = true
 }
+
